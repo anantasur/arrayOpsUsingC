@@ -1,0 +1,1 @@
+int filter_int(int *array, int (*operation)(int,int,int *), int length, int **result);
