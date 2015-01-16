@@ -1,22 +1,22 @@
 [main] arrayOpsTestRunner 1000 (0) exception: trapped!
-[main] arrayOpsTestRunner 1000 (0) exception: code 0xC0000005 at 0x40160C
-[main] arrayOpsTestRunner 1000 (0) exception: ax 0x4011E4 bx 0x401380 cx 0x61061104 dx 0xA031BE8
-[main] arrayOpsTestRunner 1000 (0) exception: si 0x0 di 0x0 bp 0x244FE74 sp 0x244FE60
+[main] arrayOpsTestRunner 1000 (0) exception: code 0xC0000005 at 0x401DCE
+[main] arrayOpsTestRunner 1000 (0) exception: ax 0x0 bx 0x401A34 cx 0x61061104 dx 0xA032070
+[main] arrayOpsTestRunner 1000 (0) exception: si 0x0 di 0x0 bp 0x244FE8C sp 0x244FE78
 [main] arrayOpsTestRunner 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
 [main] arrayOpsTestRunner 1000 (0) stack: Stack trace:
-[main] arrayOpsTestRunner 1000 (0) stack: frame 0: sp = 0x244FA00, pc = 0x6100A2C3
-[main] arrayOpsTestRunner 1000 (0) stack: frame 1: sp = 0x244FA3C, pc = 0x7778B499
-[main] arrayOpsTestRunner 1000 (0) stack: frame 2: sp = 0x244FA60, pc = 0x7778B46B
-[main] arrayOpsTestRunner 1000 (0) stack: frame 3: sp = 0x244FB10, pc = 0x77740133
-[main] arrayOpsTestRunner 1000 (0) stack: frame 4: sp = 0x244FE74, pc = 0x401435
-[main] arrayOpsTestRunner 1000 (0) stack: frame 5: sp = 0x244FED0, pc = 0x40121B
-[main] arrayOpsTestRunner 1000 (0) stack: frame 6: sp = 0x244FEDC, pc = 0x40132F
+[main] arrayOpsTestRunner 1000 (0) stack: frame 0: sp = 0x244FA18, pc = 0x6100A2C3
+[main] arrayOpsTestRunner 1000 (1) stack: frame 1: sp = 0x244FA54, pc = 0x7720B499
+[main] arrayOpsTestRunner 1000 (0) stack: frame 2: sp = 0x244FA78, pc = 0x7720B46B
+[main] arrayOpsTestRunner 1000 (0) stack: frame 3: sp = 0x244FB28, pc = 0x771C0133
+[main] arrayOpsTestRunner 1000 (0) stack: frame 4: sp = 0x244FE8C, pc = 0x401A6D
+[main] arrayOpsTestRunner 1000 (0) stack: frame 5: sp = 0x244FED0, pc = 0x40131B
+[main] arrayOpsTestRunner 1000 (0) stack: frame 6: sp = 0x244FEDC, pc = 0x40142F
 [main] arrayOpsTestRunner 1000 (0) stack: frame 7: sp = 0x244FEFC, pc = 0x61004402
 [main] arrayOpsTestRunner 1000 (0) stack: frame 8: sp = 0x244FF50, pc = 0x61004420
-[main] arrayOpsTestRunner 1000 (0) stack: frame 9: sp = 0x244FF5C, pc = 0x4017AE
+[main] arrayOpsTestRunner 1000 (0) stack: frame 9: sp = 0x244FF5C, pc = 0x401F7E
 [main] arrayOpsTestRunner 1000 (0) stack: frame 10: sp = 0x244FF6C, pc = 0x40103A
-[main] arrayOpsTestRunner 1000 (0) stack: frame 11: sp = 0x244FF88, pc = 0x7681338A
-[main] arrayOpsTestRunner 1000 (0) stack: frame 12: sp = 0x244FF94, pc = 0x77769F72
-[main] arrayOpsTestRunner 1000 (0) stack: frame 13: sp = 0x244FFD4, pc = 0x77769F45
+[main] arrayOpsTestRunner 1000 (0) stack: frame 11: sp = 0x244FF88, pc = 0x7664338A
+[main] arrayOpsTestRunner 1000 (0) stack: frame 12: sp = 0x244FF94, pc = 0x771E9F72
+[main] arrayOpsTestRunner 1000 (0) stack: frame 13: sp = 0x244FFD4, pc = 0x771E9F45
 [main] arrayOpsTestRunner 1000 (0) stack: frame 14: sp = 0x244FFEC, pc = 0x0
 [main] arrayOpsTestRunner 1000 (0) stack: End of stack trace
